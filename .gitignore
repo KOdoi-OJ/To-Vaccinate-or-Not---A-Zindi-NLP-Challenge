@@ -3,7 +3,6 @@
 .ipynb_checkpoints/
 .vs
 .vscode
-__pycache__
 flagged/
 src/
 test_trainer/
